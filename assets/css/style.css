@@ -1,0 +1,78 @@
+body {
+    background-image: url("../images/crystalbackground.jpg");
+}
+
+h1 {
+    color: white;
+    background-color: orange;
+    margin-right: 80%;
+    padding-left: 1%;
+}
+
+#instructions {
+    background-color: moccasin;
+    color: darkgreen;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin-right: 70%;
+}
+
+#random-number {
+    margin-right: 85%;
+    margin-top: 1%;
+    font-size: xx-large;
+    padding-left: 1%;
+    padding-bottom: 7%;
+    background-color: mediumseagreen;
+}
+
+#wins-losses {
+    background-color: mediumturquoise;
+    margin-left: 16%;
+    margin-right: 75%;
+    position: relative;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    bottom: 135px;
+
+}
+
+#wins, #losses, #result {
+    text-align: center;
+    font-size: medium;
+}
+
+#crystals {
+    position: relative;
+    bottom: 125px;
+}
+
+img {
+    width: 75px;
+    background-color: white;
+    padding: 1%;
+}
+
+#scoreis {
+    background-color:  cadetblue;
+    color: white;
+    padding-left: 1%;
+    margin-right: 85%;
+    position: relative;
+    bottom: 125px;
+}
+
+#scorecounter {
+    color: white;
+    background-color: cadetblue;
+    margin-right: 85%;
+    margin-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 7%;
+    font-size: xx-large;
+    position: relative;
+    bottom: 130px;
+
+}
